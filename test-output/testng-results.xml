@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-02T16:03:37 GMT+03:00" name="Default suite" finished-at="2025-05-02T16:05:22 GMT+03:00" duration-ms="105030">
+    <groups>
+    </groups>
+    <test started-at="2025-05-02T16:03:37 GMT+03:00" name="Default test" finished-at="2025-05-02T16:05:22 GMT+03:00" duration-ms="105030">
+      <class name="mosafer.Almosafer">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:mosafer.Almosafer@2002348]" started-at="2025-05-02T16:03:37 GMT+03:00" name="mySetup" finished-at="2025-05-02T16:03:50 GMT+03:00" duration-ms="12733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="CheckTheLanguage()[pri:1, instance:mosafer.Almosafer@2002348]" started-at="2025-05-02T16:03:50 GMT+03:00" name="CheckTheLanguage" finished-at="2025-05-02T16:03:50 GMT+03:00" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTheLanguage -->
+        <test-method signature="CheckTheCurrency()[pri:2, instance:mosafer.Almosafer@2002348]" started-at="2025-05-02T16:03:50 GMT+03:00" name="CheckTheCurrency" finished-at="2025-05-02T16:03:50 GMT+03:00" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTheCurrency -->
+        <test-method signature="CheckTheContactNumber()[pri:3, instance:mosafer.Almosafer@2002348]" started-at="2025-05-02T16:03:50 GMT+03:00" name="CheckTheContactNumber" finished-at="2025-05-02T16:03:50 GMT+03:00" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTheContactNumber -->
+        <test-method signature="CheckqitafLogo()[pri:4, instance:mosafer.Almosafer@2002348]" started-at="2025-05-02T16:03:50 GMT+03:00" name="CheckqitafLogo" finished-at="2025-05-02T16:03:50 GMT+03:00" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckqitafLogo -->
+        <test-method signature="CheckHotelTabIsNotSelectedByDefault()[pri:5, instance:mosafer.Almosafer@2002348]" started-at="2025-05-02T16:03:50 GMT+03:00" name="CheckHotelTabIsNotSelectedByDefault" finished-at="2025-05-02T16:03:50 GMT+03:00" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckHotelTabIsNotSelectedByDefault -->
+        <test-method signature="CheckDepatureDate()[pri:6, instance:mosafer.Almosafer@2002348]" started-at="2025-05-02T16:03:50 GMT+03:00" name="CheckDepatureDate" finished-at="2025-05-02T16:03:51 GMT+03:00" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckDepatureDate -->
+        <test-method signature="CheckReturnDate()[pri:7, instance:mosafer.Almosafer@2002348]" started-at="2025-05-02T16:03:51 GMT+03:00" name="CheckReturnDate" finished-at="2025-05-02T16:03:51 GMT+03:00" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckReturnDate -->
+        <test-method signature="RandomlyChangeTheLanguage_And_Random_Ar_Or_En_Cities()[pri:8, instance:mosafer.Almosafer@2002348]" started-at="2025-05-02T16:03:51 GMT+03:00" name="RandomlyChangeTheLanguage_And_Random_Ar_Or_En_Cities" finished-at="2025-05-02T16:05:22 GMT+03:00" duration-ms="91453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RandomlyChangeTheLanguage_And_Random_Ar_Or_En_Cities -->
+        <test-method signature="CheckThatTheNewSearchPageIsFullyLoaded()[pri:9, instance:mosafer.Almosafer@2002348]" started-at="2025-05-02T16:05:22 GMT+03:00" name="CheckThatTheNewSearchPageIsFullyLoaded" finished-at="2025-05-02T16:05:22 GMT+03:00" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckThatTheNewSearchPageIsFullyLoaded -->
+      </class> <!-- mosafer.Almosafer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
